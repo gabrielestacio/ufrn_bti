@@ -1,2 +1,4 @@
-# ufrn_bti
-Um repositório com todos os meus trabalhos da faculdade
+## UFRN | BTI
+# Gabriel Estácio
+
+Um repositório com todos os meus trabalhos da faculdade.
