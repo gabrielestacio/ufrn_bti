@@ -1,4 +1,4 @@
 # UFRN | BTI
 ## Gabriel Estácio
 
-Um repositório com todos os meus trabalhos da faculdade.
+Um repositório com alguns dos meus trabalhos da faculdade.
